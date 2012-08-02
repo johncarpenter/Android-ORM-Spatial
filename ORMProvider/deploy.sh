@@ -1,0 +1,1 @@
+mvn -DaltDeploymentRepository=snapshot-repo::default::file:../../../mvn-repository/snapshots clean deploy
