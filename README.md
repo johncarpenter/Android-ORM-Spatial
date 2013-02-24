@@ -1,6 +1,6 @@
 Added a maven repository. You can add it with this code; 
 
-<repositories>
+        <repositories>
 	  <repository>
 	    <id>public-mvn-repo-releases</id>
 	    <url>https://github.com/johncarpenter/mvn-repository/raw/master/releases</url>
