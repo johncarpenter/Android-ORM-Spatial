@@ -1,3 +1,9 @@
+
+Library is not maintained. Performance issues are noted here;
+
+http://blog.nimbledroid.com/2016/02/23/slow-Android-reflection.html
+
+
 Added a maven repository. You can add it with this code; 
 
         <repositories>
